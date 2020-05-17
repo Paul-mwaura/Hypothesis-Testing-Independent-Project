@@ -9,7 +9,7 @@ An Electric Car Sharing Company Project. Performed Univariate and Bivariate Anal
 # Setup/Installation Requirements
 > * Google colab/jupyter notebook
 > * Python basics
-> * Python libraries (Matplotlib, Scipy, Numpy, Seabornand Pandas)
+> * Python libraries (Matplotlib, Scipy, Numpy, Seaborn and Pandas)
 # Known Bugs.
 {There are no known bugs}
 # Technologies Used
