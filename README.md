@@ -7,9 +7,9 @@ An Electric Car Sharing Company Project. Performed Univariate and Bivariate Anal
 > Exploratory data analysis
 > Data Cleaning
 # Setup/Installation Requirements
-> Google colab/jupyter notebook
-> Python basics
-> Python libraries (Matplotlib, Scipy, Numpy, Seabornand Pandas)
+> * Google colab/jupyter notebook
+> * Python basics
+> * Python libraries (Matplotlib, Scipy, Numpy, Seabornand Pandas)
 # Known Bugs.
 {There are no known bugs}
 # Technologies Used
